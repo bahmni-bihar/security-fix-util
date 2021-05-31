@@ -17,5 +17,6 @@ public class Main {
         System.out.println(Encode.forHtml("adminADMIN!1"));
         System.out.println(Encode.forHtml("admin(ADMIN!1"));
         System.out.println(Encode.forHtml("<head></head>"));
+        System.out.println(Encode.forHtml("\"><svg/onload=alert(\"FOo\")>"));
     }
 }
