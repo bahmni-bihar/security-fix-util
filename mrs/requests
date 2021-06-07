@@ -1,0 +1,2 @@
+Reflected XSS
+https://192.168.33.10/openmrs/coreapp%3Cimg%20src=a%20onerror=alert(1)%3E/findpatient/findPatient.page
